@@ -1,6 +1,6 @@
 '''
-Idea for a personal utility software 05-12-2020
-Screenshot
+CaptureA Copyright (c) 2020 Aditya Singh Tejas
+05-12-2020
 '''
 
 from tkinter import *
